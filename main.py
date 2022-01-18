@@ -3,7 +3,7 @@ import numpy as np
 
 screenW = 1200
 screenH = 800
-rez = 10
+rez = 5
 threshold = 50
 BLACK = (0,0,0)
 WHITE = (200,200,200)
